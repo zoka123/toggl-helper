@@ -1,0 +1,13 @@
+{
+    "name": "zantolov/toggl-helper",
+    "require": {
+        "codegyre/robo": "^0.7.2",
+        "guzzlehttp/guzzle": "^6.2"
+    },
+    "authors": [
+        {
+            "name": "Zoran Antolovic",
+            "email": "zokadgo@gmail.com"
+        }
+    ]
+}
